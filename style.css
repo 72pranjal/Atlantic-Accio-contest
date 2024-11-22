@@ -1,0 +1,11 @@
+.contact-section span {
+    display: block;
+    font-style: italic;
+}
+.statistics-section table, .statistics-section table tr th,
+.statistics-section table tr td {
+    border: 1px solid #000;
+}
+.copy-right-section {
+    margin: 20px 0;
+}
